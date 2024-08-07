@@ -1,0 +1,6 @@
+res://default_env.tres
+res://src/Screens/World.tscn
+res://src/Scripts/Player.gd
+res://src/Scripts/Asteroids.gd
+res://src/Scripts/Player_bullet.gd
+res://src/Scripts/World.gd

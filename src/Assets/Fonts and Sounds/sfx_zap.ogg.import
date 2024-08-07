@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b0equnsqn3fm6"
+path="res://.godot/imported/sfx_zap.ogg-a79678a0a73f80c78917714704f6e92e.oggvorbisstr"
+
+[deps]
+
+source_file="res://src/Assets/Fonts and Sounds/sfx_zap.ogg"
+dest_files=["res://.godot/imported/sfx_zap.ogg-a79678a0a73f80c78917714704f6e92e.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
